@@ -1,4 +1,4 @@
-# SafeBites
+# SaferBites
 
 SafeBites is a web app that helps users filter and explore allergy-safe food options with a clean, easy-to-use interface.
 
